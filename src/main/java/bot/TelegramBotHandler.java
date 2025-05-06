@@ -224,16 +224,28 @@ public String getBotToken() {
 
 
     private void sendMessage(long chatId, String text) {
+    int maxLength = 4000;
+    int start = 0;
+
+    while (start < text.length()) {
+        int end = Math.min(start + maxLength, text.length());
+        String chunk = text.substring(start, end);
+
         SendMessage message = new SendMessage();
         message.setChatId(String.valueOf(chatId));
-        message.setText(text);
+        message.setText(chunk);
         message.setParseMode("Markdown");
+
         try {
             execute(message);
         } catch (TelegramApiException e) {
             e.printStackTrace();
         }
+
+        start = end;
     }
+}
+
     private void askStudentType(long chatId) {
     sendMessage(chatId, "Is the student 'regular' or 'exchange'?");
 }
