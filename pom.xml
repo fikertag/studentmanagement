@@ -8,6 +8,7 @@
     <version>1.0</version>
 
     <properties>
+        <!-- Use Java 17 for both source and target compilation -->
         <maven.compiler.release>17</maven.compiler.release>
     </properties>
 
@@ -29,20 +30,18 @@
 
    <build>
     <plugins>
+        <!-- Maven Compiler Plugin to use Java 17 for compilation -->
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-jar-plugin</artifactId>
-            <version>3.3.0</version>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <version>3.8.1</version>
             <configuration>
-                <archive>
-                    <manifest>
-                        <mainClass>bot.BotStarter</mainClass>
-                    </manifest>
-                </archive>
+                <source>17</source>  <!-- Java version for source code -->
+                <target>17</target>  <!-- Java version for output bytecode -->
             </configuration>
         </plugin>
 
-        <!-- Add Maven Shade Plugin to include dependencies in the jar -->
+        <!-- Maven Shade Plugin to include all dependencies in the jar -->
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-shade-plugin</artifactId>
@@ -55,6 +54,20 @@
                     </goals>
                 </execution>
             </executions>
+        </plugin>
+
+        <!-- Maven JAR Plugin for packaging the JAR file -->
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-jar-plugin</artifactId>
+            <version>3.3.0</version>
+            <configuration>
+                <archive>
+                    <manifest>
+                        <mainClass>bot.BotStarter</mainClass>
+                    </manifest>
+                </archive>
+            </configuration>
         </plugin>
     </plugins>
 </build>
