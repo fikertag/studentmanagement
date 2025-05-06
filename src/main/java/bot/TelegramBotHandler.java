@@ -224,27 +224,40 @@ public String getBotToken() {
 
 
     private void sendMessage(long chatId, String text) {
-    int maxLength = 4000;
-    int start = 0;
+    int maxLength = 2000;
 
-    while (start < text.length()) {
-        int end = Math.min(start + maxLength, text.length());
-        String chunk = text.substring(start, end);
+    // Split the text into lines
+    String[] lines = text.split("\n");
+    StringBuilder chunk = new StringBuilder();
 
-        SendMessage message = new SendMessage();
-        message.setChatId(String.valueOf(chatId));
-        message.setText(chunk);
-        message.setParseMode("Markdown");
-
-        try {
-            execute(message);
-        } catch (TelegramApiException e) {
-            e.printStackTrace();
+    for (String line : lines) {
+        // If adding the next line would exceed the limit, send current chunk
+        if (chunk.length() + line.length() + 1 > maxLength) {
+            sendChunk(chatId, chunk.toString());
+            chunk.setLength(0); // Reset the chunk
         }
+        chunk.append(line).append("\n");
+    }
 
-        start = end;
+    // Send the final chunk
+    if (chunk.length() > 0) {
+        sendChunk(chatId, chunk.toString());
     }
 }
+
+private void sendChunk(long chatId, String textChunk) {
+    SendMessage message = new SendMessage();
+    message.setChatId(String.valueOf(chatId));
+    message.setText(textChunk);
+    message.setParseMode("Markdown");
+
+    try {
+        execute(message);
+    } catch (TelegramApiException e) {
+        e.printStackTrace();
+    }
+}
+
 
     private void askStudentType(long chatId) {
     sendMessage(chatId, "Is the student 'regular' or 'exchange'?");
