@@ -1,0 +1,6 @@
+bot\TelegramBotHandler.class
+core\Student.class
+bot\BotStarter.class
+core\ExchangeStudent.class
+core\RegularStudent.class
+core\StudentManager.class
