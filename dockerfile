@@ -10,7 +10,7 @@ RUN apt-get update && apt-get install -y maven
 # Copy all project files into the container
 COPY . .
 
-# Build the project using Maven
+# Build the project using Mavens
 RUN mvn clean package
 
 # Environment variable (should be set in Render dashboard, not hardcoded)
