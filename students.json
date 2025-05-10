@@ -1,566 +1,587 @@
 [
   {
+    "major": "Computer Science",
     "id": "3502",
     "name": "SHURA TADESE TIKI",
     "age": 21,
     "grade": 88.5,
-    "major": "Computer Science",
     "comments": ["Always wears sunglasses to lectures - even at night"]
   },
   {
+    "major": "Computer Science",
     "id": "3339",
     "name": "ROBERA HAJI BIRMEJI",
     "age": 20,
     "grade": 92.3,
-    "major": "Computer Science",
     "comments": ["Can debug code just by staring at it"]
   },
   {
+    "major": "Computer Science",
     "id": "2680",
     "name": "LEUL BIRHANU ADDISU",
     "age": 22,
     "grade": 85.7,
-    "major": "Computer Science",
     "comments": ["Once wrote a sorting algorithm in his sleep"]
   },
   {
-    "id": "3597",
-    "name": "TEBAREK SOLOMON TAREKEGN",
-    "age": 21,
-    "grade": 79.4,
     "major": "Computer Science",
-    "comments": ["Still uses Internet Explorer 'for nostalgia'"]
-  },
-  {
     "id": "2477",
     "name": "IFTU DEJENE GUDETA",
     "age": 20,
     "grade": 94.1,
-    "major": "Computer Science",
     "comments": ["Her code comments are actually funny"]
   },
   {
+    "major": "Computer Science",
     "id": "3112",
     "name": "NAOD ADDISU BANTIGEGN",
     "age": 22,
     "grade": 81.6,
-    "major": "Computer Science",
     "comments": ["Writes code with one hand, eats pizza with the other"]
   },
   {
+    "major": "Computer Science",
     "id": "3151",
     "name": "NATNAEL ABAY TABABEL",
     "age": 21,
     "grade": 87.9,
-    "major": "Computer Science",
     "comments": ["Can recite the entire Java docs from memory"]
   },
   {
+    "major": "Computer Science",
     "id": "1975",
     "name": "EPHREM YOSEPH KEBEDE",
     "age": 20,
     "grade": 83.2,
-    "major": "Computer Science",
     "comments": ["Debugs by talking to his rubber duck collection"]
   },
   {
+    "major": "Computer Science",
     "id": "2156",
     "name": "FIRDOS ABDURAZAKE MOHAMMED",
     "age": 22,
     "grade": 90.5,
-    "major": "Computer Science",
     "comments": ["Her keyboard glows brighter than her future"]
   },
   {
+    "major": "Computer Science",
     "id": "3630",
     "name": "TESFAMICHAEL ASSEFA ABEBE",
     "age": 21,
     "grade": 76.8,
-    "major": "Computer Science",
-    "comments": ["Still thinks 'sudo' is a magic spell"]
+    "comments": ["Still thinks \u0027sudo\u0027 is a magic spell"]
   },
   {
+    "major": "Computer Science",
     "id": "1459",
     "name": "BEREKET FIKRE ABIYO",
     "age": 20,
     "grade": 89.7,
-    "major": "Computer Science",
     "comments": ["Writes code so clean you could eat off it"]
   },
   {
+    "major": "Computer Science",
     "id": "3113",
     "name": "NAOL GIRMA TEFERA",
     "age": 22,
     "grade": 84.3,
-    "major": "Computer Science",
     "comments": ["Once fixed a bug by giving the computer a stern look"]
   },
   {
+    "major": "Computer Science",
     "id": "1420",
     "name": "BEHAILU HAGOS ADANE",
     "age": 21,
     "grade": 77.5,
-    "major": "Computer Science",
-    "comments": ["Still waiting for his Java coffee to compile"]
+    "comments": [
+      "Still waiting for his Java coffee to compile",
+      "he thinks 2000usd/month is unreal for us salary"
+    ]
   },
   {
+    "major": "Computer Science",
     "id": "3170",
     "name": "NATNAEL REBUMA BEKELE",
     "age": 20,
     "grade": 91.2,
-    "major": "Computer Science",
-    "comments": ["His IDE theme is 'dark mode darker'"]
+    "comments": ["His IDE theme is \u0027dark mode darker\u0027"]
   },
   {
+    "major": "Computer Science",
     "id": "2398",
     "name": "HENOK LEMA KIFLE",
     "age": 22,
     "grade": 82.9,
-    "major": "Computer Science",
     "comments": ["Can make Stack Overflow errors disappear by refreshing"]
   },
   {
-    "id": "1598",
-    "name": "BINIAM MESFIN WELDETSADIK",
-    "age": 21,
-    "grade": 86.4,
     "major": "Computer Science",
-    "comments": [
-      "Once wrote 'Hello World' in 15 different languages... simultaneously"
-    ]
-  },
-  {
     "id": "1996",
     "name": "ESMAEL YASIN MUHAMMED",
     "age": 20,
     "grade": 79.8,
-    "major": "Computer Science",
     "comments": ["Thinks binary is just a really committed yes/no system"]
   },
   {
+    "major": "Computer Science",
     "id": "3537",
     "name": "SOFONIAS MINILIK TILAHUN",
     "age": 22,
     "grade": 93.1,
-    "major": "Computer Science",
     "comments": ["His code has fewer bugs than the average kitchen"]
   },
   {
+    "major": "Computer Science",
     "id": "2077",
     "name": "EYUEL MESFIN WOLDEGIORGIS",
     "age": 21,
     "grade": 85.0,
-    "major": "Computer Science",
     "comments": ["Can detect syntax errors by smell"]
   },
   {
+    "major": "Computer Science",
     "id": "1090",
     "name": "ABENEZER HAILE TADESE",
     "age": 20,
     "grade": 88.2,
-    "major": "Computer Science",
-    "comments": ["Once tried to 'git push' his lunch to GitHub"]
+    "comments": ["Once tried to \u0027git push\u0027 his lunch to GitHub"]
   },
   {
+    "major": "Computer Science",
     "id": "1892",
     "name": "EGATA KEBEDE HIRPA",
     "age": 22,
     "grade": 82.4,
-    "major": "Computer Science",
     "comments": ["His whitespace is more organized than his life"]
   },
   {
+    "major": "Computer Science",
     "id": "2597",
     "name": "KIBREAB SISAY TAKELE",
     "age": 21,
     "grade": 84.7,
-    "major": "Computer Science",
     "comments": ["Wrote a script to automate blinking"]
   },
   {
+    "major": "Computer Science",
     "id": "1647",
     "name": "BIRUK MEKONNEN ABREHAM",
     "age": 20,
     "grade": 90.9,
-    "major": "Computer Science",
-    "comments": ["His coffee mug says '0xDEADBEEF'"]
+    "comments": ["His coffee mug says \u00270xDEADBEEF\u0027"]
   },
   {
+    "major": "Computer Science",
     "id": "0338",
     "name": "ELENI YISFALEM ENDALE",
     "age": 22,
     "grade": 87.3,
-    "major": "Computer Science",
     "comments": ["Can recite the entire TCP/IP stack in Klingon"]
   },
   {
+    "major": "Computer Science",
     "id": "2407",
     "name": "HERANI WUDMA BEKA",
     "age": 21,
     "grade": 91.8,
-    "major": "Computer Science",
     "comments": [
       "Her code is so efficient it travels back in time to finish early"
     ]
   },
   {
+    "major": "Computer Science",
     "id": "1200",
     "name": "AFOMIYA TEKETEL FIREW",
     "age": 20,
     "grade": 83.6,
-    "major": "Computer Science",
     "comments": ["Once fixed a bug by turning it off and on again... mentally"]
   },
   {
+    "major": "Computer Science",
     "id": "1397",
     "name": "BARKOT ADDISSE MITORO",
     "age": 22,
     "grade": 89.5,
-    "major": "Computer Science",
     "comments": ["Her variable names are more poetic than Shakespeare"]
   },
   {
+    "major": "Computer Science",
     "id": "1895",
     "name": "EHTINESH WALE WAGAYE",
     "age": 21,
     "grade": 86.0,
-    "major": "Computer Science",
     "comments": ["Can type faster than the speed of thought"]
   },
   {
+    "major": "Computer Science",
     "id": "2461",
     "name": "HONOLIYAT ESKINDIR TILAHUN",
     "age": 20,
     "grade": 92.7,
-    "major": "Computer Science",
     "comments": ["Her algorithms are so optimized they achieve enlightenment"]
   },
   {
+    "major": "Computer Science",
     "id": "3382",
     "name": "SAMRAWIT EYASU BATTISO",
     "age": 22,
     "grade": 84.9,
-    "major": "Computer Science",
     "comments": ["Once compiled a program by glaring at it"]
   },
   {
+    "major": "Computer Science",
     "id": "2933",
     "name": "METI MIDEKSA FUFA",
     "age": 20,
     "grade": 85.5,
-    "major": "Computer Science",
     "comments": ["Uses semicolons like seasoning – generously"]
   },
   {
+    "major": "Computer Science",
     "id": "2030",
     "name": "EYERUS GETACHEW KEBEDE",
     "age": 21,
     "grade": 78.2,
-    "major": "Computer Science",
-    "comments": ["Still trying to find the 'any' key"]
+    "comments": ["Still trying to find the \u0027any\u0027 key"]
   },
   {
+    "major": "Computer Science",
     "id": "3483",
     "name": "SENA MENGISTU SORI",
     "age": 20,
     "grade": 92.7,
-    "major": "Computer Science",
     "comments": ["Can write code with her eyes closed – literally"]
   },
   {
+    "major": "Computer Science",
     "id": "1325",
     "name": "ARSEMA KALAYU BELAY",
     "age": 21,
     "grade": 88.1,
-    "major": "Computer Science",
     "comments": ["Once replaced Stack Overflow with intuition"]
   },
   {
+    "major": "Computer Science",
     "id": "4034",
     "name": "ZEYNEB YUSUF EDRIS",
     "age": 20,
     "grade": 76.4,
-    "major": "Computer Science",
     "comments": ["Uses Ctrl+Z in real life"]
   },
   {
+    "major": "Computer Science",
     "id": "2534",
     "name": "KALKIDAN FIKRE MELESE",
     "age": 22,
     "grade": 81.9,
-    "major": "Computer Science",
     "comments": ["Her code compiles on the first try... sometimes"]
   },
   {
+    "major": "Computer Science",
     "id": "3739",
     "name": "VITTORIA TAMIRE ENDRIAS",
     "age": 20,
     "grade": 89.3,
-    "major": "Computer Science",
     "comments": ["Once solved a bug by dreaming about it"]
   },
   {
+    "major": "Computer Science",
     "id": "2011",
     "name": "ETSUB MICHAEL YITBAREK",
     "age": 21,
     "grade": 77.6,
-    "major": "Computer Science",
     "comments": ["Thinks semicolons are just suggestions"]
   },
   {
+    "major": "Computer Science",
     "id": "3916",
     "name": "YOHANA DESTA DELELEW",
     "age": 20,
     "grade": 84.2,
-    "major": "Computer Science",
     "comments": ["Uses console.log as therapy"]
   },
   {
+    "major": "Computer Science",
     "id": "1299",
     "name": "ANDINET DEMEKE KAYENEW",
     "age": 22,
     "grade": 79.8,
-    "major": "Computer Science",
     "comments": ["Believes tabs and spaces can coexist peacefully"]
   },
   {
+    "major": "Computer Science",
     "id": "1757",
     "name": "DAGNAW MEKASHA WELDEAMANUEL",
     "age": 21,
     "grade": 83.5,
-    "major": "Computer Science",
     "comments": ["Can speak fluent pseudocode"]
   },
   {
+    "major": "Computer Science",
     "id": "1439",
     "name": "BEMNET ASEGED YEGEZU",
     "age": 20,
     "grade": 91.2,
-    "major": "Computer Science",
     "comments": ["Her brain runs at 60GHz"]
   },
   {
+    "major": "Computer Science",
     "id": "2818",
     "name": "MEHARI BEREKET TESHOME",
     "age": 22,
     "grade": 75.3,
-    "major": "Computer Science",
     "comments": ["Still thinks recursion is a conspiracy"]
   },
   {
+    "major": "Computer Science",
     "id": "2765",
     "name": "MAHLET HAILE WOLDE",
     "age": 20,
     "grade": 86.7,
-    "major": "Computer Science",
     "comments": ["Uses breakpoints like traffic lights"]
   },
   {
+    "major": "Computer Science",
     "id": "2488",
     "name": "ISRAEL GEZAHEGN SIMA",
     "age": 21,
     "grade": 82.4,
-    "major": "Computer Science",
     "comments": ["Can optimize bubble sort by hand"]
   },
   {
+    "major": "Computer Science",
     "id": "1458",
     "name": "BEREKET ENDALE DEBELA",
     "age": 20,
     "grade": 88.9,
-    "major": "Computer Science",
     "comments": ["Types faster than his shadow"]
   },
   {
+    "major": "Computer Science",
     "id": "1498",
     "name": "BESUFIKAD DEJENE BERGID",
     "age": 22,
     "grade": 79.1,
-    "major": "Computer Science",
     "comments": ["Believes semicolons have feelings too"]
   },
   {
+    "major": "Computer Science",
     "id": "3135",
     "name": "NATAN SAHLU YIRGA",
     "age": 21,
     "grade": 84.6,
-    "major": "Computer Science",
     "comments": ["Wrote a chatbot to talk to himself"]
   },
   {
+    "major": "Computer Science",
     "id": "2989",
     "name": "MILLION TESHOME GUDETO",
     "age": 20,
     "grade": 90.3,
-    "major": "Computer Science",
     "comments": ["Can refactor your entire life"]
   },
   {
+    "major": "Computer Science",
     "id": "1908",
     "name": "ELBETEL ALEM NITSEBE",
     "age": 21,
     "grade": 77.8,
-    "major": "Computer Science",
     "comments": ["Her syntax errors apologize to her"]
   },
   {
+    "major": "Computer Science",
     "id": "2662",
     "name": "LATERA GELETA DIDA",
     "age": 20,
     "grade": 85.2,
-    "major": "Computer Science",
-    "comments": ["Knows the difference between == and === emotionally"]
+    "comments": [
+      "Knows the difference between \u003d\u003d and \u003d\u003d\u003d emotionally"
+    ]
   },
   {
+    "major": "Computer Science",
     "id": "2213",
     "name": "GENENE FITSUM KIROS",
     "age": 22,
     "grade": 81.7,
-    "major": "Computer Science",
     "comments": ["Wrote a Python script to brush his teeth"]
   },
   {
+    "major": "Computer Science",
     "id": "2392",
     "name": "HENOK BEFEKADU KEBEDE",
     "age": 21,
     "grade": 83.9,
-    "major": "Computer Science",
     "comments": ["Reboots his brain every morning"]
   },
   {
+    "major": "Computer Science",
     "id": "2670",
     "name": "LEMI GADISA TEKLE",
     "age": 20,
     "grade": 87.4,
-    "major": "Computer Science",
     "comments": ["Can subclass emotions"]
   },
   {
+    "major": "Computer Science",
     "id": "3585",
     "name": "TAMIRAT WENDIMAGEGNE TEREFE",
     "age": 22,
     "grade": 79.5,
-    "major": "Computer Science",
     "comments": ["His stack never overflows"]
   },
   {
+    "major": "Computer Science",
     "id": "3302",
     "name": "REDIET WERET TEZERA",
     "age": 21,
     "grade": 84.1,
-    "major": "Computer Science",
     "comments": ["Speaks fluent Git"]
   },
   {
+    "major": "Computer Science",
     "id": "2137",
     "name": "FIKIRYILKAL TAGES GEBREMARIYAM",
     "age": 20,
     "grade": 92.8,
-    "major": "Computer Science",
     "comments": ["Can implement blockchain on paper"]
   },
   {
+    "major": "Computer Science",
     "id": "3922",
     "name": "YOHANIS ALEMU GEBRASENBET",
     "age": 21,
     "grade": 78.3,
-    "major": "Computer Science",
-    "comments": ["His compiler says 'thank you'"]
+    "comments": ["His compiler says \u0027thank you\u0027"]
   },
   {
+    "major": "Computer Science",
     "id": "3939",
     "name": "YOHANNES TADELEW CHEKOLE",
     "age": 20,
     "grade": 86.5,
-    "major": "Computer Science",
     "comments": ["Can serialize reality"]
   },
   {
+    "major": "Computer Science",
     "id": "3921",
     "name": "YOHANIS ALEMAYEHU MEKURIA",
     "age": 22,
     "grade": 80.7,
-    "major": "Computer Science",
     "comments": ["Writes Java in his dreams"]
   },
   {
+    "major": "Computer Science",
     "id": "2736",
     "name": "LULIYA FITSUM GEBREMEDIHN",
     "age": 21,
     "grade": 89.2,
-    "major": "Computer Science",
     "comments": ["Her pseudocode compiles"]
   },
   {
+    "major": "Computer Science",
     "id": "1551",
     "name": "BETSEGAW ABRAHAM ANJULO",
     "age": 20,
     "grade": 82.6,
-    "major": "Computer Science",
     "comments": ["Uses regex to solve life problems"]
   },
   {
+    "major": "Computer Science",
     "id": "3010",
     "name": "MINTESNOT TESFAYE CHUFARE",
     "age": 22,
     "grade": 77.9,
-    "major": "Computer Science",
     "comments": ["Still thinks Ctrl+S saves his soul"]
   },
   {
+    "major": "Computer Science",
     "id": "2071",
     "name": "EYUEL ADANE BIRATU",
     "age": 21,
     "grade": 85.8,
-    "major": "Computer Science",
     "comments": ["Can write code in Morse"]
   },
   {
+    "major": "Computer Science",
     "id": "1320",
     "name": "AREGAWIBARAMBARAS WENDM",
     "age": 20,
     "grade": 83.2,
-    "major": "Computer Science",
     "comments": ["Uses recursion to make coffee"]
   },
   {
+    "major": "Computer Science",
     "id": "1007",
     "name": "MUSSIE NEGASI KIDANE",
     "age": 21,
     "grade": 88.4,
-    "major": "Computer Science",
     "comments": ["His mousepad is a touch-sensitive command line"]
   },
   {
+    "major": "Computer Science",
     "id": "3628",
     "name": "TESFAHUN YOSEF GETACHEW",
     "age": 22,
     "grade": 79.6,
-    "major": "Computer Science",
     "comments": ["Speaks fluent Bash in his sleep"]
   },
   {
+    "major": "Computer Science",
     "id": "1525",
     "name": "BETHELEHEM BELETE ZEWDU",
     "age": 20,
     "grade": 91.5,
-    "major": "Computer Science",
     "comments": ["Her code is so clean, it sparkles"]
   },
   {
+    "major": "Computer Science",
     "id": "1134",
     "name": "ABNET MEKONEN GOSAYE",
     "age": 21,
     "grade": 84.9,
-    "major": "Computer Science",
     "comments": ["Can find bugs before they hatch"]
   },
   {
-    "id": "2326",
-    "name": "HANNA MASRESHA MELESE",
-    "age": 22,
-    "grade": 80.3,
+    "homeCountry": "us",
+    "durationMonths": 14,
+    "id": "21",
+    "name": "fikiryilkal",
+    "age": 34,
+    "grade": 13.0,
+    "comments": []
+  },
+  {
     "major": "Computer Science",
-    "comments": ["Uses flowcharts to plan conversations"]
+    "id": "3597",
+    "name": "TEBAREK SOLOMON TAREKEGN",
+    "age": 21,
+    "grade": 89.4,
+    "comments": []
+  },
+  {
+    "major": "leadership",
+    "id": "6806",
+    "name": "Boss",
+    "age": 39,
+    "grade": 0.1,
+    "comments": []
+  },
+  {
+    "major": "zmblo",
+    "id": "NaScR/1234/56",
+    "name": "Abcde",
+    "age": 123,
+    "grade": 7.5,
+    "comments": []
+  },
+  {
+    "homeCountry": "sheol",
+    "durationMonths": 12,
+    "id": "666",
+    "name": "suck my dick",
+    "age": 6,
+    "grade": 12.0,
+    "comments": []
   }
 ]
